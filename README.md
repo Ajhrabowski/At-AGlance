@@ -1,18 +1,34 @@
 # At-AGlance
 Work Day Scheduler
 
+## Table of Contents
+
+- [License](#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact Info](#contact-info)
+
+## Badges
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 - In this project we were to create a simple calendar application that allows a user to save events for each hour of a typical working day (9am-5pm).
 
-
+https://ajhrabowski.github.io/At-AGlance/
 ![Alt text](05-third-party-apis-homework-demo.gif)
 
 ## Installation
 N/A
 
-## Credits
-N/A
+## Usage
+
+To use, first download the above required applications in [Installation](#installation).
+
+- Clone the repository to your local machine.
+- After cloning the repository, open the directory using Visual Studio Code.
 
 ## License
 MIT License
@@ -36,3 +52,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Contact Info: 
+
+* ajhrabowski@gmail.com
+* https://github.com/Ajhrabowski
+
