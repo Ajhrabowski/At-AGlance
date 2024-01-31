@@ -18,6 +18,7 @@ Work Day Scheduler
 - In this project we were to create a simple calendar application that allows a user to save events for each hour of a typical working day (9am-5pm).
 
 https://ajhrabowski.github.io/At-AGlance/
+
 ![Alt text](05-third-party-apis-homework-demo.gif)
 
 ## Installation
